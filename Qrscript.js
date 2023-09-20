@@ -1,5 +1,3 @@
-// ( )
-
 function genQR2( ){
     let qapi = "https://chart.googleapis.com/chart?cht=qr&chs="
     let mytext =document.getElementById("qtext" ).value;
